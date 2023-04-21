@@ -29,8 +29,7 @@ jobs:
       url: 'https://levinhtuyen.github.io/design_system/'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - uses: actions/setup-node@master
+      - uses: actions/checkout@main
       - name: Installing project dependencies
       - run: npm install
       - name: Building the project
