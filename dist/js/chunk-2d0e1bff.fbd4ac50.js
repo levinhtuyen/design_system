@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e1bff"],{"7c85":function(n,o,e){"use strict";e.r(o);var c=e("a18c");c["a"].addRoute({path:"/hotel/sadmin/color",name:"color",component:()=>e.e("chunk-d69e121e").then(e.bind(null,"6328"))})}}]);
+//# sourceMappingURL=chunk-2d0e1bff.fbd4ac50.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cba58"],{"4b0d":function(a,n,e){"use strict";e.r(n);var t=e("a18c");t["a"].addRoute({path:"/hotel/sadmin/typography",name:"typography",meta:{requiresAuth:!1},component:()=>e.e("chunk-32d6a90a").then(e.bind(null,"80f6"))})}}]);
+//# sourceMappingURL=chunk-2d0cba58.c128d5da.js.map

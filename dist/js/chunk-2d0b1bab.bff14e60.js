@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b1bab"],{"20a8":function(n,a,c){"use strict";c.r(a);var t=c("a18c");t["a"].addRoute({path:"/hotel/sadmin/switch",name:"switch",component:()=>c.e("chunk-c9076a06").then(c.bind(null,"9d9c"))})}}]);
+//# sourceMappingURL=chunk-2d0b1bab.bff14e60.js.map

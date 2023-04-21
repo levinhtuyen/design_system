@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ab2ae"],{"13b8":function(n,c,e){"use strict";e.r(c);var a=e("a18c");a["a"].addRoute({path:"/hotel/sadmin/checkbox",name:"checkbox",component:()=>e.e("chunk-38c4dd42").then(e.bind(null,"837c"))})}}]);
+//# sourceMappingURL=chunk-2d0ab2ae.74b8ed0f.js.map

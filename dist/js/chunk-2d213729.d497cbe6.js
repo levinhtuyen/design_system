@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d213729"],{ad5e:function(a,n,d){"use strict";d.r(n);var o=d("a18c");o["a"].addRoute({path:"/hotel/sadmin/radio",name:"radio",component:()=>d.e("chunk-5a171a1b").then(d.bind(null,"ad21"))})}}]);
+//# sourceMappingURL=chunk-2d213729.d497cbe6.js.map

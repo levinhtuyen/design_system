@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21ef54"],{d87a:function(n,a,e){"use strict";e.r(a);var t=e("a18c");t["a"].addRoute({path:"/hotel/sadmin/cta",name:"cta",meta:{requiresAuth:!1},component:()=>e.e("chunk-37dc87d2").then(e.bind(null,"0275"))})}}]);
+//# sourceMappingURL=chunk-2d21ef54.e296054e.js.map
